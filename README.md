@@ -73,16 +73,16 @@ jupyter notebook handwritten_character_recognition.ipynb
 
 ### ✏️ Digit Sample Visualization  
 Displays a few sample digits from the dataset used for training the model.  
-![Digit Sample Visualization](screenshots/Digit_Sample_Visualization.png)
+![Digit Sample Visualization](screenshots/Digit_sample_visualization.png)
 
 ---
 
 ### 📋 Classification Report Output  
 Shows precision, recall, F1-score, and support for each digit class.  
-![Classification Report Output](screenshots/Classification_Report_Output.png)
+![Classification Report Output](screenshots/Classification_report_output.png)
 
 ---
 
 ### 🔲 Confusion Matrix Visualization  
 A confusion matrix heatmap illustrating model performance across classes.  
-![Confusion Matrix Visualization](screenshots/Confusion_Matrix_Visualization.png)
+![Confusion Matrix Visualization](screenshots/Confusion_matrix_visualization.png)
