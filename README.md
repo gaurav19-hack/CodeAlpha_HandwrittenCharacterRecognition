@@ -38,6 +38,26 @@ To build a model that can accurately classify handwritten alphabet characters fr
 
 ---
 
+## 📸 Screenshots
+
+### 🔢 Digit Sample Visualization
+Displays a few sample digits from the dataset used for training the model.  
+![Digit Sample](screenshots/Digit_sample_visualization.png)
+
+---
+
+### 📊 Confusion Matrix Visualization
+Shows the confusion matrix after predictions.  
+![Confusion Matrix](screenshots/Confusion_matrix_visualization.png)
+
+---
+
+### 📝 Classification Report Output
+Displays precision, recall, and f1-score for each class.  
+![Classification Report](screenshots/Classification_report_output.png)
+
+---
+
 ## 📦 Requirements
 
 Install dependencies using:
@@ -69,23 +89,5 @@ Copy
 Edit
 jupyter notebook handwritten_character_recognition.ipynb
 
----
 
-## 📸 Screenshots
-
-### 🔢 Digit Sample Visualization
-Displays a few sample digits from the dataset used for training the model.  
-![Digit Sample](screenshots/Digit_sample_visualization.png)
-
----
-
-### 📊 Confusion Matrix Visualization
-Shows the confusion matrix after predictions.  
-![Confusion Matrix](screenshots/Confusion_matrix_visualization.png)
-
----
-
-### 📝 Classification Report Output
-Displays precision, recall, and f1-score for each class.  
-![Classification Report](screenshots/Classification_report_output.png)
 
