@@ -58,36 +58,32 @@ Displays precision, recall, and f1-score for each class.
 
 ---
 
-## 📦 Requirements
-
+📦 Requirements
 Install dependencies using:
 
-```bash
 pip install -r requirements.txt
-requirements.txt:
+Contents of requirements.txt:
 
-nginx
-Copy
-Edit
+
+##Contents of requirements.txt: 
+
 numpy
 pandas
 matplotlib
 seaborn
 scikit-learn
+
+---
+
 🖥️ How to Run
 Clone this repository:
 
-bash
-Copy
-Edit
+
 git clone https://github.com/gaurav19-hack/CodeAlpha_HandwrittenCharacterRecognition
 cd CodeAlpha_HandwrittenCharacterRecognition
+
 Launch the Jupyter Notebook:
 
-bash
-Copy
-Edit
-jupyter notebook handwritten_character_recognition.ipynb
-
+jupyter notebook characters_recogntion.ipynb
 
 
