@@ -69,6 +69,8 @@ Copy
 Edit
 jupyter notebook handwritten_character_recognition.ipynb
 
+---
+
 ## 📸 Screenshots
 
 ### 🔢 Digit Sample Visualization
